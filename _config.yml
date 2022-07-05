@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: CRAMnet
+description: Columbia River Amateur Mesh Network
+plugins:
+  - jekyll-remote-theme
+remote_theme: BDHU/minimalist
