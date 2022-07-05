@@ -30,4 +30,4 @@ Your support has allowed the network to get off the ground.
 The CRAMnet is operated by:
 
 * Masen Furer KF7HVM - network operator
-* Rick McCollum WA7RPM
+* Rick McCollam WA7RPM
