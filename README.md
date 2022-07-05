@@ -21,7 +21,7 @@ Additional nodes are on hand and will be deployed as site arrangements are secur
 
 * [**Cascade Amateur Radio Society (CARS)**](https://cascadeamateurradio.net/) has provided an initial batch of hardware purchased by grant.
 * **Northwest Repeater Association (NW7RA)** for providing site access and personnel.
-* [**AREDN Mesh**](https://www.arednmesh.org/) for providing software and documentation for leveraging commercially available networking gear.
+* <img src="/images/AREDN-Final-Logo_0.jpg" style="float: right; width: 10vw" alt="Amateur Radio Emergency Data Network"> [**AREDN Mesh**](https://www.arednmesh.org/) for providing software and documentation for leveraging commercially available networking gear.
 
 Your support has allowed the network to get off the ground.
 
