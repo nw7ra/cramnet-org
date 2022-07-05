@@ -9,7 +9,7 @@ A high speed, redundant, freely available, and non-commercial network supporting
 
 ## Status
 
-<img src="/images/ubiquiti-powerbeam-m5-pbe-m5-400.png" style="float: right; width: 30vw" alt="ubiquiti powerbeam m5"> 
+<img src="/images/ubiquiti-powerbeam-m5-pbe-m5-400.png" style="float: right; width: 20vw" alt="ubiquiti powerbeam m5"> 
 
 Development began on the CRAMnet in mid-June 2022.
 
