@@ -9,6 +9,8 @@ A high speed, redundant, freely available, and non-commercial network supporting
 
 ## Status
 
+<img src="/images/ubiquiti-powerbeam-m5-pbe-m5-400.png" style="float: right; width: 30vw" alt="ubiquiti powerbeam m5"> 
+
 Development began on the CRAMnet in mid-June 2022.
 
 As of July 3rd, 2022, there are **4** nodes operating on the 5.8 GHz band in Rainier, OR and West Longview, WA using [AREDN](http://arednmesh.org) firmware.
