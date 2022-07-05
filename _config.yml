@@ -1,5 +1,6 @@
 title: CRAMnet
 description: Columbia River Amateur Mesh Network
+logo: /images/CRAMnet-logos.jpeg
 plugins:
   - jekyll-remote-theme
 remote_theme: BDHU/minimalist
