@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to CRAMnet
 
-You can use the [editor on GitHub](https://github.com/nw7ra/cramnet-org/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A high speed, redundant, freely available, and non-commercial network supporting emergency, non-profit, and hobbyist communication needs in the lower Columbia River valley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 2.4GHz and 5.8GHz carrier grade wireless hardware that is affordable and readily available provides high-speed point-to-multi-point access at 15mbps to 150mbps+ rate.
+* The network is redundantly designed with multiple RF pathways and tunnels between primary nodes. When primary communication channels are down or overloaded, the mesh network can carry voice, video, and data throughout the region.
+* Commercial use is disallowed by Part 97 rules, allowing the network to remain for public use.
+* Amateur radio operators are encouraged to join the mesh network at will; no central coordination or approval is needed.
 
-### Markdown
+## Status
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Development began on the CRAMnet in mid-June 2022.
 
-```markdown
-Syntax highlighted code block
+As of July 3rd, 2022, there are **4** nodes operating on the 5.8 GHz band in Rainier, OR and West Longview, WA using [AREDN](http://arednmesh.org) firmware.
 
-# Header 1
-## Header 2
-### Header 3
+Additional nodes are on hand and will be deployed as site arrangements are secured.
 
-- Bulleted
-- List
+## Partners
 
-1. Numbered
-2. List
+* [**Cascade Amateur Radio Society (CARS)**](https://cascadeamateurradio.net/) has provided an initial batch of hardware purchased by grant.
+* **Northwest Repeater Association (NW7RA)** for providing site access and personnel.
+* [**AREDN Mesh**](https://www.arednmesh.org/) for providing software and documentation for leveraging commercially available networking gear.
 
-**Bold** and _Italic_ and `Code` text
+Your support has allowed the network to get off the ground.
 
-[Link](url) and ![Image](src)
-```
+## About Us
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The CRAMnet is operated by:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nw7ra/cramnet-org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Masen Furer KF7HVM - network operator
+* Rick McCollum WA7RPM
